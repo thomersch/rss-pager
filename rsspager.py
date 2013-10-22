@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from lxml import etree
+import xml.etree.ElementTree as etree
 from math import ceil
 from copy import deepcopy
 

@@ -2,7 +2,7 @@
 
 Splits a long RSS feed into a RFC 5005 paged feed.
 
-Works with Python 2.7 and requires "lxml" (that can be installed via `pip install lxml`).
+Works with Python 2.7, no external dependencies.
 
 ## Usage
 	usage: rsspager.py [-h] [-o OUTPUT] [-b BASENAME] [-e EXTENSION] [-u BASEURL]
